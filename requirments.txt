@@ -1,0 +1,17 @@
+# numpy
+numpy==1.23.5
+
+# pandas
+pandas==1.5.3
+
+# scikit-learn
+scikit-learn==1.2.2
+
+# matplotlib (optional)
+matplotlib==3.6.3
+
+# PyTorch with CUDA 11.6 support
+-f https://download.pytorch.org/whl/cu116
+torch==1.13.1+cu116
+torchvision==0.14.1+cu116
+torchaudio==0.13.1+cu116
