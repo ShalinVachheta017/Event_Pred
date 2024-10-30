@@ -1,3 +1,3 @@
 # Event_Pred
 
-Change the parameters in Train file 
+Change the parameters in train.py file 
